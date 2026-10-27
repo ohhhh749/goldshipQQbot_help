@@ -1,0 +1,2 @@
+# goldshipQQbot_help
+本页面为基于astrbot和napcat黄金船聊天机器人的功能帮助页面，仅为群友提供功能查询
